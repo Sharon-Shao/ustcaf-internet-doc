@@ -7,7 +7,7 @@
 3. 输入管理员密码，确认导入配置文件
 4. 使用TunnelBlick连接到OpenVPN服务器（需要输入登录凭证）
 
-## IKEv2（10.8 Mountain Lion or later）
+## IKEv2（10.8 Mountain Lion or later）（部署中）
 
 1. 打开->System Preferences->Network
 2. 点击左侧的+号，新增一个网络接口
@@ -15,7 +15,7 @@
 4. 在左侧点击刚才创建的网络接口；Server Address填写所需服务器地址；Remote ID填写所需服务器地址；Local ID为空
 5. 点击Authentication Settings；在下拉框中选择Username；输入用户名（即邮箱，下同）和密码。
 
-## L2TP
+## L2TP （部署中）
 
 1. 打开->System Preferences->Network
 2. 点击左侧的+号，新增一个网络接口
