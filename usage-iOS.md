@@ -1,4 +1,4 @@
-# LUG VPN配置指南（iOS）
+# USTCAF VPN配置指南（iOS）
 
 ## OpenVPN
 

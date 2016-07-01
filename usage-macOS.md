@@ -1,4 +1,4 @@
-# LUG VPN配置指南（macOS）
+# USTCAF VPN配置指南（macOS）
 
 ## OpenVPN
 
