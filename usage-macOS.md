@@ -21,7 +21,7 @@
 2. 点击左侧的+号，新增一个网络接口
 3. Interface选择VPN；VPN Type选择L2TP over IPSec；点击Create
 4. 在左侧点击刚才创建的网络接口；Server Address填写所需服务器地址；Account name填写用户名
-5. 点击Authentication Settings；User Authentication单选框选择Password，并输入您的密码；Machine Authentication选择Shared Secret，值为lug；点击OK。
+5. 点击Authentication Settings；User Authentication单选框选择Password，并输入您的密码；Machine Authentication选择Shared Secret，值为ustcaf；点击OK。
 6. 点击Advanced；**勾选Send all traffic over VPN connection**
 
 ## PPTP

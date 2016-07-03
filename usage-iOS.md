@@ -28,7 +28,7 @@
 4. Server输入所需服务器地址
 5. Account填写用户名
 6. Password填写密码（如不填则会每次连接时询问）
-7. Secret填入lug
+7. Secret填入ustcaf
 8. 确认勾选Send All Traffic（默认勾选）
 9. 点击右上角的Done，然后连接VPN
 
