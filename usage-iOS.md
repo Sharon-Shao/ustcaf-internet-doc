@@ -1,5 +1,16 @@
 # USTCAF VPN配置指南（iOS）
 
+## PPTP
+
+1. 打开Settings->VPN->Add VPN Configuration
+2. Type选择PPTP
+3. Description输入自定义名称
+4. Server输入所需服务器地址
+5. Account填写用户名
+6. Password填写密码（如不填则会每次连接时询问）
+7. 确认勾选Send All Traffic（默认勾选）
+8. 点击右上角的Done，然后连接VPN
+
 ## OpenVPN
 
 1. OpenVPN已在中国App Store下架。请先注册一个非中国区的Apple ID（比如美国区）。
@@ -31,14 +42,3 @@
 7. Secret填入ustcaf
 8. 确认勾选Send All Traffic（默认勾选）
 9. 点击右上角的Done，然后连接VPN
-
-## PPTP
-
-1. 打开Settings->VPN->Add VPN Configuration
-2. Type选择PPTP
-3. Description输入自定义名称
-4. Server输入所需服务器地址
-5. Account填写用户名
-6. Password填写密码（如不填则会每次连接时询问）
-7. 确认勾选Send All Traffic（默认勾选）
-8. 点击右上角的Done，然后连接VPN
