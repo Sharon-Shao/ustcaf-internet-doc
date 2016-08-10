@@ -16,7 +16,7 @@
 
 ### Windows 7
 
-1. 邮件点击右下角任务栏的网络连接图标，选择 Open Network and Sharing Center
+1. 右键点击右下角任务栏的网络连接图标，选择 Open Network and Sharing Center
 2. 点击 Set up a new connection or network
 3. 选择 Connect to a workplace
 4. 选择 Use my Internet connection (VPN)
@@ -29,4 +29,3 @@
 11. 在Adapter页面中可以看到刚刚添加的连接，右键点击->Properties
 12. 在Security选项卡下，Type of VPN 选择PPTP，Data Encryption选择Optional Encryption，点击OK完成设置
 13. 右键点击连接图标可以连接和断开VPN
-
