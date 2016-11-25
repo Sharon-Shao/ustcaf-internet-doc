@@ -1,5 +1,13 @@
 # USTCAF VPN配置指南（macOS）
 
+## Cisco AnyConnect
+
+1. 下载并安装[AnyConnect Client](https://ftp.ustclug.org/software/anyconnect/)
+2. 打开“Cisco AnyConnect Secure Mobility Client"
+3. VPN填入 vpn.zlix.tech
+4. 点击Connect按钮
+5. 依照提示输入用户名密码
+
 ## PPTP
 
 1. 打开->System Preferences->Network

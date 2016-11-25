@@ -1,5 +1,16 @@
 # USTCAF VPN配置指南（iOS）
 
+## Cisco AnyConnect
+
+1. 从App Store安装“Cisco AnyConnect"
+2. 打开App ”AnyConnect"
+3. 选择Connections -> Add VPN Connection…
+4. Decription输入自定义名称
+5. Server Address填写vpn.zlix.tech
+6. Advanced -> Certificate 选择 Disable
+7. 保存VPN配置并返回首页
+8. 连接VPN，根据提示输入用户名密码
+
 ## PPTP
 
 1. 打开Settings->VPN->Add VPN Configuration
