@@ -12,7 +12,7 @@
 
 ## L2TP （文档待补充）
 
-## OpenVPN
+## OpenVPN （仅限中国大陆的用户）
 
 1. 下载安装OpenVPN for Android (作者提供的[链接](http://plaisthos.de/android/ics-openvpn-latest-stable.apk), [Google Play](https://play.google.com/store/apps/details?id=de.blinkt.openvpn), [F-Droid](https://f-droid.org/repository/browse/?fdid=de.blinkt.openvpn))
 2. 下载所需配置文件
