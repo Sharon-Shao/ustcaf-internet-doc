@@ -3,7 +3,7 @@
 ## Cisco AnyConnect
 
 1. 从App Store安装“Cisco AnyConnect"
-2. 打开App ”AnyConnect"
+2. 打开App "AnyConnect"
 3. 选择Connections -> Add VPN Connection…
 4. Decription输入自定义名称
 5. Server Address填写vpn.zlix.tech

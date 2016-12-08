@@ -1,4 +1,4 @@
-# USTCAF VPN配置指南（iOS）
+# USTCAF VPN配置指南（Android）
 
 ## PPTP （适用Android 4.0 及以上）
 

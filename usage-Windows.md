@@ -1,5 +1,12 @@
 # USTCAF VPN 配置指南（Windows）
 
+## Cisco AnyConnect
+1. 下载并安装 [AnyConnect Client](https://ftp.ustclug.org/software/anyconnect/)
+2. 打开 “Cisco AnyConnect Secure Mobility Client”
+3. VPN 填入 vpn.zlix.tech
+4. 点击 Connect
+5. 依照提示输入用户名密码
+
 ## PPTP
 
 ### Windows 10
