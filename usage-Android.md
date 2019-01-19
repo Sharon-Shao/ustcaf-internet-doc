@@ -1,4 +1,4 @@
-# USTCAF VPN配置指南（Android）
+# 配置指南（Android）
 
 ## AnyConnect
 
