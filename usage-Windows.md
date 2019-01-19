@@ -1,4 +1,4 @@
-# USTCAF VPN 配置指南（Windows）
+# 配置指南（Windows）
 
 ## Cisco AnyConnect
 1. 下载并安装 [AnyConnect Client](https://ftp.ustclug.org/software/anyconnect/anyconnect-win-4.4.03034-core-vpn-predeploy-k9.msi)
