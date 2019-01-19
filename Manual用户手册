@@ -1,0 +1,30 @@
+中科大校友网络服务用户手册
+V1.0
+邵娴婷
+Jan 19, 2019
+
+
+注册
+
+1：打开网页 https://internet.zlix.tech/，网页第一行“Not a user？Click here to sign up”，点击here，进入注册页面之后，填写邮箱地址和密码，点击确认。
+2：网页跳转，出现“Confirm Email”，这时候登录注册邮箱，点击邮件中的注册链接。跳转到新创基金会校友网络服务页面，填入刚才注册时的邮箱地址和密码。
+3：点击绿色按钮“Apply for VPN”，进入“申请校友网络服务”申请页面。填写以下各项：
+  1. Name 姓名
+  2. Student/Staff/Class No. 学号
+  3. Phone 电话
+  4. Current living country/ region 居住地
+  5. Case ID Number (Required for users in China, contact alumni(at)ustc.global for a case ID)
+  6. Apply reason (Please specify your current working/studying institution) 申请理由
+  7. Security question 1: What is the website address of USTC Alumni Foundation (USTCAF)?
+  答案去掉http://
+  8. Security question 2: In which year was USTCAF founded?
+  答案为纯数字
+
+
+配置
+
+当邮箱收到分配了账号密码的通知邮件之后，进入注册时网页 https://internet.zlix.tech/
+最开始会显示Your application has passed，下面就是配置VPN所需的用户名以及密码，在下面配置VPN的时候填入该账号密码。
+Server address也是配置VPN需要填入的信息。
+在Usage下面找到自己的手机或者电脑对应的系统，点击进入，按照提示一步步配置自己的手机或者电脑。需要填写VPN账号密码以及Server address的时候，填入之前的用户名密码。
+Usage via Chrome+SwitchyOmega，此项是专门配置Chrome浏览器的。同一台电脑，用Chrome浏览器可以使用VPN登录外网，其他的浏览器还是国内IP地址登录。方便切换。
