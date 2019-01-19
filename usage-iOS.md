@@ -1,4 +1,4 @@
-# USTCAF VPN配置指南（iOS）
+# 配置指南（iOS）
 
 ## Cisco AnyConnect
 
