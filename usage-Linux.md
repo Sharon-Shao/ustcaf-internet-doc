@@ -1,4 +1,4 @@
-# USTCAF VPN配置指南（Linux）
+# 配置指南（Linux）
 
 ## OpenVPN
 
