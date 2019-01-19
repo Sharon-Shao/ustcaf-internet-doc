@@ -1,4 +1,4 @@
-# USTCAF VPN配置指南（macOS）
+# 配置指南（macOS）
 
 ## Cisco AnyConnect
 
